@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/awesome-misleading-visualizations/commit/a203de98ac8194ca390555b591c43172ddb97ca4",
       "git:hexsha": "a203de98ac8194ca390555b591c43172ddb97ca4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T06:53:06.264403+00:00"
     }
   ]
 }
